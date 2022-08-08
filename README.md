@@ -17,8 +17,6 @@
 <br><br><br><br><br><br>
 
 ![HeeYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chy0503&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chy0503&layout=compact&theme=buefy)
-
 <br><br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
