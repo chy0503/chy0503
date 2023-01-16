@@ -17,7 +17,9 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=firebase&logoColor=white"/>
 <br><br><br><br><br><br>
 
-![HeeYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chy0503&show_icons=true&theme=buefy)
+![HeeYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chy0503&show_icons=true&theme=swift)
+<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chy0503&layout=compact&theme=swift)
 <br><br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
