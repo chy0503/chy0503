@@ -21,8 +21,5 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 <br><br><br><br><br><br>
 
-[![Ranjith Kumar Mittapelli's github stats](https://github-readme-stats.vercel.app/api?username=chy0503&show_icons=true&hide_rank=false)](https://github.com/chy0503/github-readme-stats)
-<br><br>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
 </div>
