@@ -2,8 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=HeeYeon%20Cho&fontSize=75&animation=fadeIn&fontAlign=69&fontAlignY=40&)
 
+## 🎓 Education
+Department of Computer Science, Kyonggi University, Korea
+<br><br><br>
 
-## 🛠️ Tech Stack 🛠️
+## 🛠️ Tech Stack
 <img src="https://img.shields.io/badge/JAVA-0098FF?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
